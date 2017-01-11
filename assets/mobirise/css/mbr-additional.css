@@ -7,6 +7,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -479,26 +480,15 @@ h6,
 #menu-o .dropdown-item[aria-expanded="true"] {
   color: #cccccc!important;
 }
-#header1-40 .mbr-section-title {
-  color: #ffffff;
-  text-align: center;
-}
-#header1-40 .mbr-section-lead P {
-  color: #ffffff;
-}
-#header1-40 .mbr-section-title SPAN {
-  text-align: left;
-  font-size: 46px;
+#header1-4b .mbr-section-title SPAN {
+  font-size: 36px;
   font-family: 'Raleway', sans-serif;
   color: #000000;
 }
-#header1-40 .mbr-section-lead I {
+#header1-4b .mbr-section-lead {
+  font-family: 'Raleway', sans-serif;
   font-size: 15px;
   color: #000000;
-  text-align: center;
-}
-#header1-40 .mbr-section-title DIV {
-  text-align: right;
 }
 
 
@@ -1298,7 +1288,6 @@ h6,
 }
 
 
-
 #msg-box8-3l .mbr-section-title,
 #msg-box8-3l p {
   color: #fff;
@@ -1370,9 +1359,6 @@ h6,
 #menu-3k .link[aria-expanded="true"],
 #menu-3k .dropdown-item[aria-expanded="true"] {
   color: #cccccc!important;
-}
-#header4-41 .mbr-section-title {
-  font-family: 'Raleway', sans-serif;
 }
 
 
